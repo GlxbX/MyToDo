@@ -17,6 +17,7 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 ### Technologies used:
 * Flask
 * SQLAlchemy
+* Python
 * HTML
 * CSS
 
